@@ -3,6 +3,8 @@
 
 <img width="555" height="555" alt="image" src="https://github.com/user-attachments/assets/404baeeb-6ae2-4975-b781-face3bb329e7" />
 
+# News
+3 july 2026 fixed all bugs in v2, called it v3 but its still v2 features without the bugs ( i hope)
 
 
 # Down to business...
