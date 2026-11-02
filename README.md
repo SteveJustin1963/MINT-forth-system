@@ -189,6 +189,8 @@ The range depends on the allocation of bits for the sign, exponent, and mantissa
 
  
 
+# give up ?
+so you didnt give it a go? quitter! sit there nice and still, look up... 
 
 
 ![image](https://github.com/user-attachments/assets/e15ac155-4a9c-48a9-a4c3-31413bce2aa3)
