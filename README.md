@@ -190,12 +190,14 @@ The range depends on the allocation of bits for the sign, exponent, and mantissa
  
 
 # give up ?
-``
+
+```
 so you didn't give it a go? 
     wasn't worth it?
        not interested in running forth from a 2k rom
          sit there nice and still, while i shame you on FB 
            now smile for the camera....
-``
+```
+
 
 ![image](https://github.com/user-attachments/assets/e15ac155-4a9c-48a9-a4c3-31413bce2aa3)
